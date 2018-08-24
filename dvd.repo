@@ -1,0 +1,4 @@
+[dvd]
+name=rhel7.3
+baseurl=http://172.25.29.250/rhel7.3
+gpgcheck=0
